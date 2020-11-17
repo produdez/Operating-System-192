@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Adding new system call}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Operating system and kernel preparation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Kernel configuration}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{System call Implementation}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Pre-testing with module}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Prototype}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Implementation}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Complication and Installation process}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Build the configured kernel}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Install the new kernel}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Testing system call}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Making API for system call}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Writing wrapper}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Adding wrapper to GCC}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Final testing}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 17
